@@ -25,14 +25,9 @@ interface that correspond.
 The active mode will show on the button that was clicked.
 
 ## Instructions ##
-You'll need node.js installed. Clone or unpack the zip, and from the directory in a command 
-line run
+Run the controllbook.pde sketch in processing.
 
-    npm install
-    webpack
-
-And that should then do what you need. For debugging purposes, you can just double-click the 
-index.html file and it'll open in your browser.
+For debugging purposes, you can just double-click the index.html file and it'll open in your browser.
 
 For deployment, the directory will need to be accessible from an HTTP server on the same 
 machine that the sketch is running on. You can do this in many ways but that's a different
